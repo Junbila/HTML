@@ -1,0 +1,29 @@
+    .divisao{
+        background-color: navy;
+        color: white;
+    }
+    .divisao span{
+        background-color: aliceblue;
+    }
+    .realce{
+        color: yellowgreen;
+    }
+    html {
+        background-color:  #d3d3d3;
+        font-size: 32px;
+    }
+    body{
+        background-color: deepskyblue;
+        width: 50%;
+        font-size: 2em;
+    }
+    .pai{
+        background-color: aquamarine;
+        width: 50%;
+        font-size: 3em;
+    }
+    .filha{
+        background-color: lightblue;
+        width: 50%;
+        font-size: 2rem;
+    }
