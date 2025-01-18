@@ -1,0 +1,13 @@
+    /*body{
+        margin: 0;
+        width: 500px;
+        height: 500px;
+    }*/
+    a {
+        color: #0056b3;
+        text-decoration: none;
+    }
+    .a:hover{
+        color: red;
+        text-decoration: underline;
+    }
